@@ -98,3 +98,5 @@ Additional professional education:
 
 * LinkedIn: [linkedin.com/in/denis-fomenkov](https://linkedin.com/in/denis-fomenkov)
 * Email: **[tgimrv@ya.ru](mailto:tgimrv@ya.ru)**
+* Resume (EN): **[Google Drive](https://drive.google.com/file/d/12zuDhhjn1k_psxiwl-D6DNIXR5zcNn4S/view?usp=share_link)**
+* Resume (EN): **[Yandex disk](https://disk.yandex.ru/i/psw-vzm47DbeVQ)**
