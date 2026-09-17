@@ -96,3 +96,7 @@ Container-native runtime wrapper для публикации Prometheus-метр
 
 * LinkedIn: [linkedin.com/in/denis-fomenkov](https://linkedin.com/in/denis-fomenkov)
 * Email: **[tgimrv@ya.ru](mailto:tgimrv@ya.ru)**
+* Resume (EN): **[Google Drive](https://drive.google.com/file/d/12zuDhhjn1k_psxiwl-D6DNIXR5zcNn4S/view?usp=share_link)**
+* Resume (EN): **[Yandex disk](https://disk.yandex.ru/i/psw-vzm47DbeVQ)**
+* Resume (РУ): **[Google Drive](https://drive.google.com/file/d/1PVWUz8HYzjAV0X1aD83101R5tCTzj3XB/view?usp=share_link)**
+* Resume (РУ): **[Yandex disk](https://disk.yandex.ru/i/Osw7cnQhkYiVjQ)**
